@@ -1,0 +1,63 @@
+
+body{
+    background-image: url(pngtree-vintage-old-age-background-border-picture-image_1193778.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 500px 520px;
+    background-color: rgb(250, 167, 167);
+    position: relative;
+}
+h1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: red;
+}
+form{
+    background-color: transparent;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 50px; 
+    color: rgb(2, 83, 34);
+    font-weight: bold;
+}
+input{
+    border-radius: 25px;
+    padding: 7px;
+}
+input:hover{
+    background-color: rgb(205, 194, 182);
+    padding: 8px;
+    color: brown;
+    font-weight: bold;
+}
+.Submit{
+    padding: 5px;
+    border-radius: 25px;
+    margin-left: 20px;
+}
+.Submit:hover{
+    color: rgb(255, 0, 0);
+    background-color: deepskyblue;
+    font-weight: bolder;
+}
+.reset{
+    padding: 5px;
+    border-radius: 25px;
+    
+}
+.reset:hover{
+    color: rgb(255, 0, 0);
+    background-color: deepskyblue;
+    font-weight: bolder;
+}
+form #Age{
+    color: rgb(255, 0, 0);
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-size: smaller;
+    font-weight: bolder;
+    
+}
